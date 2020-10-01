@@ -1,2 +1,2 @@
 # DataScienceIntroduction
-This folder contain the some exercises of data science
+This folder contain some exercises of data science
